@@ -1,0 +1,19 @@
+/* Стилі для головної сторінки */
+body {
+  background-color: #f8f9fa;
+}
+
+.jumbotron {
+  background: url('bg-image.jpg') center center/cover no-repeat;
+  color: #fff;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.jumbotron h1 {
+  font-size: 48px;
+}
+
+.jumbotron p {
+  font-size: 18px;
+}
